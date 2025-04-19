@@ -28,21 +28,8 @@ bot = commands.Bot(command_prefix=PREFIX, intents=intents, help_command=None)
 async def on_ready():
     print(f"✅ Bot is ready as {bot.user} ({bot.user.id})")
 
-async def load_cogs():
-    """Charge les cogs si nécessaire"""
-    for filename in os.listdir("./COGS"):
-        if filename.endswith(".py"):
-            try:
-                await bot.load_extension(f"COGS.{filename[:-3]}")
-                print(f"✅ Cog chargé : {filename}")
-            except Exception as e:
-                print(f"❌ Erreur lors du chargement de {filename} : {e}")
-
 async def main():
     async with bot:
-        await load_cogs()
         await bot.start(TOKEN)
 
 asyncio.run(main())
-
-
