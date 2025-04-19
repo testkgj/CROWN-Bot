@@ -1,0 +1,100 @@
+[2025-04-15 19:41:45.642000+00:00] textpktuscam: mhhhhhhhhhhh
+[2025-04-15 19:44:17.551000+00:00] textpktuscam: !payements
+[2025-04-15 19:44:17.753000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 19:44:18.057000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 19:44:27.433000+00:00] textpktuscam: ca va comme ca <@810075637493661727>
+[2025-04-15 19:44:28.889000+00:00] textpktuscam: ?
+[2025-04-15 19:47:08.108000+00:00] moxnic_: Pas mail mais faut changer la couleur verte en violet
+[2025-04-15 19:47:17.790000+00:00] moxnic_: #bb00ff
+[2025-04-15 19:47:25.129000+00:00] moxnic_: Cette couleur là
+[2025-04-15 19:56:23.333000+00:00] textpktuscam: azy
+[2025-04-15 20:01:12.408000+00:00] textpktuscam: !help
+[2025-04-15 20:01:12.617000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:18.629000+00:00] textpktuscam: ca va comme ca ?
+[2025-04-15 20:01:24.648000+00:00] textpktuscam: !payementsinter
+[2025-04-15 20:01:25.001000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:25.291000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:35.706000+00:00] textpktuscam: !payements
+[2025-04-15 20:01:35.879000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:36.266000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:38.315000+00:00] textpktuscam: !stat
+[2025-04-15 20:01:38.708000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:01:50.429000+00:00] textpktuscam: ca va comme ca <@810075637493661727>  ?
+[2025-04-15 20:02:58.965000+00:00] moxnic_: Parfait
+[2025-04-15 20:03:15.986000+00:00] moxnic_: Je fait le site internet
+[2025-04-15 20:03:22.191000+00:00] textpktuscam: azy
+[2025-04-15 20:03:35.320000+00:00] textpktuscam: je vais faire que y a que le role owner qui peux faire les commandes
+[2025-04-15 20:03:44.290000+00:00] textpktuscam: et faire un truc clean pour le ticket
+[2025-04-15 20:03:56.450000+00:00] textpktuscam: !ticket
+[2025-04-15 20:16:09.087000+00:00] moxnic_: Oui
+[2025-04-15 20:25:40.011000+00:00] textpktuscam: !help
+[2025-04-15 20:25:40.222000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:25:45.407000+00:00] textpktuscam: mrd
+[2025-04-15 20:26:00.288000+00:00] textpktuscam: !help
+[2025-04-15 20:26:00.450000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:26:09.784000+00:00] textpktuscam: !lock
+[2025-04-15 20:26:10.183000+00:00] Crow Bot NExys#3114: 🔒 Channel locked for <@&1361437043393167406>
+[2025-04-15 20:30:08.085000+00:00] moxnic_: C’est beau
+[2025-04-15 20:30:43.338000+00:00] moxnic_: Une commande pour renommer un salon
+[2025-04-15 20:31:30.904000+00:00] textpktuscam: ok j ajoute ca
+[2025-04-15 20:31:34.469000+00:00] textpktuscam: !help
+[2025-04-15 20:31:34.647000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:31:40.084000+00:00] textpktuscam: ok c goof
+[2025-04-15 20:31:43.543000+00:00] textpktuscam: good*
+[2025-04-15 20:32:14.619000+00:00] moxnic_: !stat
+[2025-04-15 20:32:14.940000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:32:29.647000+00:00] moxnic_: !ping
+[2025-04-15 20:32:29.817000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:32:59.169000+00:00] textpktuscam: tkt j ai deja config poru lautre serv
+[2025-04-15 20:37:33.568000+00:00] textpktuscam: !help
+[2025-04-15 20:37:33.784000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:38:12.619000+00:00] textpktuscam: !help
+[2025-04-15 20:38:12.911000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:39:02.164000+00:00] textpktuscam: !help
+[2025-04-15 20:39:02.506000+00:00] Crow Bot NExys#3114: ❌ Désolé, tu n'as pas le rôle requis pour utiliser cette commande.
+[2025-04-15 20:39:32.047000+00:00] textpktuscam: !help
+[2025-04-15 20:39:32.163000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:43:54.261000+00:00] textpktuscam: !help
+[2025-04-15 20:43:54.464000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:44:06.617000+00:00] textpktuscam: !help
+[2025-04-15 20:44:23.187000+00:00] textpktuscam: !payements
+[2025-04-15 20:44:23.560000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:44:23.787000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:47:59.533000+00:00] textpktuscam: !help
+[2025-04-15 20:47:59.767000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:48:15.605000+00:00] textpktuscam: !renamesalon here
+[2025-04-15 20:48:16.126000+00:00] Crow Bot NExys#3114: ✅ Le salon a été renommé en : here
+[2025-04-15 20:48:21.140000+00:00] textpktuscam: ok ca amrche
+[2025-04-15 20:48:24.882000+00:00] textpktuscam: marche*
+[2025-04-15 20:52:26.119000+00:00] textpktuscam: !help
+[2025-04-15 20:52:26.388000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:52:37.734000+00:00] textpktuscam: !transcript
+[2025-04-15 20:52:38.650000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:53:12.864000+00:00] textpktuscam: !stat
+[2025-04-15 20:53:13.360000+00:00] Crow Bot NExys#3114: 
+[2025-04-15 20:53:26.112000+00:00] textpktuscam: normalement la tout marche et tout est modifiable facilement
+[2025-04-16 05:35:36.878000+00:00] textpktuscam: !help
+[2025-04-16 05:35:37.169000+00:00] Crow Bot NExys#3114: 
+[2025-04-16 09:14:42.976000+00:00] moxnic_: !ticket
+[2025-04-16 09:14:58.146000+00:00] moxnic_: Parfait
+[2025-04-16 10:18:00.075000+00:00] moxnic_: Vazi je crois que je me suis bz pour la tech
+[2025-04-16 12:48:15.452000+00:00] textpktuscam: ah oe ???
+[2025-04-16 12:48:22.198000+00:00] textpktuscam: il rep plus ?
+[2025-04-16 12:48:47.509000+00:00] textpktuscam: !payementsinter
+[2025-04-16 12:48:47.891000+00:00] Crow Bot NExys#3114: 
+[2025-04-16 12:48:48.084000+00:00] Crow Bot NExys#3114: 
+[2025-04-16 18:29:01.257000+00:00] textpktuscam: !help
+[2025-04-16 18:29:01.728000+00:00] Crow Bot NExys#3114: 
+[2025-04-17 16:00:02.169000+00:00] textpktuscam: !payementsinter
+[2025-04-17 16:00:02.584000+00:00] Crow Bot NExys#3114: 
+[2025-04-17 16:00:02.889000+00:00] Crow Bot NExys#3114: 
+[2025-04-17 18:41:01.141000+00:00] textpktuscam: !help
+[2025-04-17 18:41:01.409000+00:00] Crow Bot NExys#3114: 
+[2025-04-17 18:41:09.718000+00:00] textpktuscam: !ticket
+[2025-04-17 18:41:09.975000+00:00] Crow Bot NExys#3114: 
+[2025-04-18 18:17:57.166000+00:00] textpktuscam: <@810075637493661727>
+[2025-04-18 18:18:36.494000+00:00] textpktuscam: !setlog <#1361582177648644096>
+[2025-04-18 18:18:36.784000+00:00] Crow Bot NExys#3114: 📒 Log channel set to <#1361582177648644096>
+[2025-04-18 18:18:44.880000+00:00] textpktuscam: !ticket
+[2025-04-18 18:18:45.114000+00:00] Crow Bot NExys#3114: 
+[2025-04-18 18:18:59.048000+00:00] textpktuscam: !transcript
